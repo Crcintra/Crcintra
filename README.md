@@ -2,7 +2,7 @@ Hey Pessoas...
 
 - 🔭 Analista Comercial
 - 🌱 Estudante de Sistemas de Informação
-- 👯 Procuro uma posição no mercado de trabalho
+- 👯 Procurando uma posição no mercado de trabalho
 - 💬 Aberto a sugestões....
 - 📫 Contate-me no email: ribeirocristiano88@gmail.com
 - 😄 Pronouns: ele/dele
