@@ -1,7 +1,7 @@
 Hey Pessoas...
 
 - 🔭 Analista Comercial
-- 🌱 Estudante de Sistemas de Informação
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 👯 Procurando uma posição no mercado de trabalho
 - 💬 Aberto a sugestões....
 - 📫 Contate-me no email: ribeirocristiano88@gmail.com
