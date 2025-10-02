@@ -1,11 +1,17 @@
 Hey Pessoas...
 
-- 🔭 Analista de Dados ABCZ
-- 🌱 Formado em  Análise e Desenvolvimento de Sistemas
-- 💬 Aberto a sugestões....
-- 📫 Contate-me no email: ribeirocristiano88@gmail.com
-- 😄 Pronouns: ele/dele
+- Meu nome é Cristiano, atualmente sou Analista de Dados na **ABCZ 🐮(Associação Brasileira de Criadores do Zebu)🐮**.
+- Atualmente atuo no **Departamento de Melhoramento Genético**, desenvolvendo análises e soluções baseadas em dados.
 
+- E aí, Cris... o que faz um Analista de Dados no DPD? 🤔
+- Atualmente sou responsável pela parte genomica dos animais, que nada mais é, **conjunto de informações genéticas** que cada animal carrega do DNA.
+  Eles funcionam como um "manual de instruções biológicas", influenciando características como:  
+- Crescimento 📈  
+- Produção de leite 🥛  
+- Resistência a doenças 💪
+- Na ABCZ, trabalhamos com dados genômicos para entender melhor essas informações e auxiliar no **melhoramento genético do Zebu 🐮**.
+
+  
 <div align="center">
   <a href="https://github.com/Crcintra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crcintra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
