@@ -1,8 +1,7 @@
 Hey Pessoas...
 
-- 🔭 Analista Comercial
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 👯 Procurando uma posição no mercado de trabalho
+- 🔭 Analista de Dados ABCZ
+- 🌱 Formado em  Análise e Desenvolvimento de Sistemas
 - 💬 Aberto a sugestões....
 - 📫 Contate-me no email: ribeirocristiano88@gmail.com
 - 😄 Pronouns: ele/dele
