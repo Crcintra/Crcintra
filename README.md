@@ -1,8 +1,9 @@
-Hey Pessoas...
+<div>
+  Hey Pessoas...
 
 - Meu nome é Cristiano, atualmente sou Analista de Dados na **ABCZ 🐮(Associação Brasileira de Criadores do Zebu)🐮**.
 - Atualmente atuo no **Departamento de Melhoramento Genético**, desenvolvendo análises e soluções baseadas em dados.
-
+</div>
 - E aí, Cris... o que faz um Analista de Dados no DPD? 🤔
 - Atualmente sou responsável pela parte genomica dos animais, que nada mais é, **conjunto de informações genéticas** que cada animal carrega do DNA.
   Eles funcionam como um "manual de instruções biológicas", influenciando características como:  
