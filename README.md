@@ -7,14 +7,29 @@
 <hr>  
 
 <div>
-  - E aí, Cris... o que faz um Analista de Dados no DPD? 🤔
-- Atualmente sou responsável pela parte genomica dos animais, que nada mais é, **conjunto de informações genéticas** que cada animal carrega do DNA.
-  Eles funcionam como um "manual de instruções biológicas", influenciando características como:  
-- Crescimento 📈  
-- Produção de leite 🥛  
-- Resistência a doenças 💪
+<section style="margin-bottom: 30px; font-family: Arial, sans-serif; line-height: 1.6;">
+  <h2 style="color: #2c3e50;">E aí, Cris... o que faz um Analista de Dados no DPD? 🤔</h2>
+  
+  <p>
+    Atualmente sou responsável pela parte <strong>genômica dos animais</strong>, que nada mais é do que o 
+    <strong>conjunto de informações genéticas</strong> que cada animal carrega no DNA. 
+    Essas informações funcionam como um “manual de instruções biológicas”, influenciando características como:
+  </p>
 
-- Na <strong>ABCZ</strong>, trabalhamos com dados genômicos para entender melhor essas informações e auxiliar no **melhoramento genético do Zebu 🐮**.
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>📈 Crescimento</li>
+    <li>🥛 Produção de leite</li>
+    <li>💪 Resistência a doenças</li>
+  </ul>
+
+  <p>
+    Na <strong>ABCZ</strong>, utilizamos dados genômicos para compreender melhor essas informações e 
+    auxiliar no <strong>melhoramento genético do Zebu</strong> 🐮.
+  </p>
+
+  <hr style="margin-top: 20px; border: 1px solid #ccc;">
+</section>
+
 </div>
 <hr>
   
