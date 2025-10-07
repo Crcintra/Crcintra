@@ -59,14 +59,6 @@
  </div>
   
 
- <div style="display: flex; align-items: center; gap: 15px; background-color: #f5f5f5; border-radius: 12px; padding: 10px;">
-  <img src="https://raw.githubusercontent.com/Crcintra/Crcintra/output/github-contribution-grid-snake.svg" alt="Snake animation" width="250">
-  <span style="font-size: 24px;">🐮 💻 📊 🐍</span>
-</div>
-
-    
-      
-</div>
 
     
     
