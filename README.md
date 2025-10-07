@@ -31,27 +31,39 @@
 </section>
 
 </div>
-<hr>
+<section style="margin-bottom: 30px; font-family: Arial, sans-serif; line-height: 1.6;">
+  <h2 style="color: #2c3e50;">Linguagens 💻</h2>
+  <div style="display: inline_block"><br>
+<img align="center" alt="Cristiano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Cristiano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Cristiano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Cristiano-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+<img align="center" alt="Cristiano-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  </div>
+  <hr>
+
+   <div>
+     <section style="margin-bottom: 30px; font-family: Arial, sans-serif; line-height: 1.6;">
+  <h2 style="color: #2c3e50;">Redes Sociais</h2>
+    <a href="https://instagram.com/cristiano.cintra"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contatoribeirocristiano88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/cristianocintra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     </div>
+     <hr>
   
 <div align="center">
   <a href="https://github.com/Crcintra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crcintra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crcintra&layout=compact&langs_count=16&theme=dark"/>
+   <hr> 
  </div>
   
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Cristiano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Cristiano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Cristiano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Cristiano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  
-  <div>
-    <a href="https://instagram.com/cristiano.cintra"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:contatoribeirocristiano88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/cristianocintra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    ![Snake animation](https://github.com/Crcintra/Crcintra/blob/output/github-contribution-grid-snake.svg)
+
+ <div style="display: flex; align-items: center; gap: 15px; background-color: #f5f5f5; border-radius: 12px; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/Crcintra/Crcintra/output/github-contribution-grid-snake.svg" alt="Snake animation" width="250">
+  <span style="font-size: 24px;">🐮 💻 📊 🐍</span>
+</div>
+
     
       
 </div>
